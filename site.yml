@@ -1,0 +1,10 @@
+siteName: My project site
+siteDesc: This is my awesome project site, cannot get simpler than this.
+author:
+  name: Zero
+  site: zerothedragon.com
+siteUrl: https://floresbenavides.com
+cname: floresbenavides.com
+pages:
+  Home: /
+  About: /about
